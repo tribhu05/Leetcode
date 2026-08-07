@@ -26,9 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
