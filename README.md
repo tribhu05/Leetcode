@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/tribhu05/Leetcode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/tribhu05/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tribhu05/Leetcode/tree/master/0001-two-sum) |
+| [0283-move-zeroes](https://github.com/tribhu05/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/tribhu05/Leetcode/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/tribhu05/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tribhu05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
