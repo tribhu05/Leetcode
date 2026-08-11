@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tribhu05/Leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/tribhu05/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/tribhu05/Leetcode/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/tribhu05/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/tribhu05/Leetcode/tree/master/0605-can-place-flowers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
