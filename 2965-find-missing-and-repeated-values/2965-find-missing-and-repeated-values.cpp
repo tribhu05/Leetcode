@@ -1,20 +1,24 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
+        
         int n = grid.size();
-        vector<int> count(n * n + 1, 0);
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                count[grid[i][j]]++;
+        set<int> s;
+        int repeated;
+        for (auto row : grid) {
+            for (int num : row) {
+                
+                if (s.count(num)) {
+                    repeated = num;
+                }
+                s.insert(num);
             }
         }
-        int repeated, missing;
+        int missing;
         for (int i = 1; i <= n * n; i++) {
-            if (count[i] == 2)
-                repeated = i;
-
-            if (count[i] == 0)
+            if (!s.count(i)) {
                 missing = i;
+            }
         }
         return {repeated, missing};
     }
