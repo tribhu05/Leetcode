@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/tribhu05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/tribhu05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tribhu05/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tribhu05/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/tribhu05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tribhu05/Leetcode/tree/master/0169-majority-element) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tribhu05/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
