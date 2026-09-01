@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tribhu05/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/tribhu05/Leetcode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/tribhu05/Leetcode/tree/master/0605-can-place-flowers) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tribhu05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/tribhu05/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tribhu05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/tribhu05/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tribhu05/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tribhu05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/tribhu05/Leetcode/tree/master/0127-word-ladder) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tribhu05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
