@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/tribhu05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/tribhu05/Leetcode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tribhu05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -160,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tribhu05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
