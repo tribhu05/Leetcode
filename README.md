@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tribhu05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0091-decode-ways](https://github.com/tribhu05/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/tribhu05/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tribhu05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tribhu05/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/tribhu05/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tribhu05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
