@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tribhu05/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tribhu05/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/tribhu05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tribhu05/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tribhu05/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/tribhu05/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tribhu05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -186,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
