@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/tribhu05/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -196,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tribhu05/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
