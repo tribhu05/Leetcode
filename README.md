@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tribhu05/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tribhu05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tribhu05/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/tribhu05/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tribhu05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/tribhu05/Leetcode/tree/master/0136-single-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
