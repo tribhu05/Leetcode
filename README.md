@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tribhu05/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tribhu05/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/tribhu05/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/tribhu05/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tribhu05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tribhu05/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/tribhu05/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tribhu05/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tribhu05/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/tribhu05/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/tribhu05/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tribhu05/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/tribhu05/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tribhu05/Leetcode/tree/master/0169-majority-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tribhu05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
