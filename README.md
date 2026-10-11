@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tribhu05/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/tribhu05/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tribhu05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tribhu05/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tribhu05/Leetcode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tribhu05/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tribhu05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -248,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/tribhu05/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tribhu05/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
