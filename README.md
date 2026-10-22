@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/tribhu05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tribhu05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/tribhu05/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
