@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tribhu05/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tribhu05/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/tribhu05/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/tribhu05/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/tribhu05/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tribhu05/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2409-count-days-spent-together](https://github.com/tribhu05/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tribhu05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
