@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/tribhu05/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/tribhu05/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tribhu05/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tribhu05/Leetcode/tree/master/0118-pascals-triangle) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/tribhu05/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/tribhu05/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tribhu05/Leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/tribhu05/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/tribhu05/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tribhu05/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
