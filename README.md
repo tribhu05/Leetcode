@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tribhu05/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/tribhu05/Leetcode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tribhu05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tribhu05/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tribhu05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tribhu05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tribhu05/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tribhu05/Leetcode/tree/master/0853-car-fleet) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tribhu05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/tribhu05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/tribhu05/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tribhu05/Leetcode/tree/master/0853-car-fleet) |
 ## Linked List
@@ -297,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tribhu05/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/tribhu05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
