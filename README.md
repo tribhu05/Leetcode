@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tribhu05/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/tribhu05/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tribhu05/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0726-number-of-atoms](https://github.com/tribhu05/Leetcode/tree/master/0726-number-of-atoms) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tribhu05/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tribhu05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tribhu05/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tribhu05/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tribhu05/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tribhu05/Leetcode/tree/master/0217-contains-duplicate) |
+| [0726-number-of-atoms](https://github.com/tribhu05/Leetcode/tree/master/0726-number-of-atoms) |
 | [1207-unique-number-of-occurrences](https://github.com/tribhu05/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tribhu05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/tribhu05/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tribhu05/Leetcode/tree/master/0217-contains-duplicate) |
+| [0726-number-of-atoms](https://github.com/tribhu05/Leetcode/tree/master/0726-number-of-atoms) |
 | [0853-car-fleet](https://github.com/tribhu05/Leetcode/tree/master/0853-car-fleet) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tribhu05/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/tribhu05/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tribhu05/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tribhu05/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tribhu05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0726-number-of-atoms](https://github.com/tribhu05/Leetcode/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/tribhu05/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/tribhu05/Leetcode/tree/master/0853-car-fleet) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tribhu05/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
