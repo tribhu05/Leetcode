@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tribhu05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/tribhu05/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3693-climbing-stairs-ii](https://github.com/tribhu05/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tribhu05/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tribhu05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/tribhu05/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tribhu05/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/tribhu05/Leetcode/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/tribhu05/Leetcode/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/tribhu05/Leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
