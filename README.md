@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/tribhu05/Leetcode/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tribhu05/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/tribhu05/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tribhu05/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tribhu05/Leetcode/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/tribhu05/Leetcode/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tribhu05/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/tribhu05/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Divide and Conquer
 |  |
 | ------- |
