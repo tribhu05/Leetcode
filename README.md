@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tribhu05/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/tribhu05/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/tribhu05/Leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/tribhu05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/tribhu05/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tribhu05/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/tribhu05/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tribhu05/Leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/tribhu05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/tribhu05/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/tribhu05/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/tribhu05/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/tribhu05/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tribhu05/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tribhu05/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tribhu05/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
